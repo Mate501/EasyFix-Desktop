@@ -1,0 +1,16 @@
+C:\Users\Doma\source\repos\Leltar\Leltar\bin\Debug\netcoreapp3.1\Leltar.exe
+C:\Users\Doma\source\repos\Leltar\Leltar\bin\Debug\netcoreapp3.1\Leltar.deps.json
+C:\Users\Doma\source\repos\Leltar\Leltar\bin\Debug\netcoreapp3.1\Leltar.runtimeconfig.json
+C:\Users\Doma\source\repos\Leltar\Leltar\bin\Debug\netcoreapp3.1\Leltar.runtimeconfig.dev.json
+C:\Users\Doma\source\repos\Leltar\Leltar\bin\Debug\netcoreapp3.1\Leltar.dll
+C:\Users\Doma\source\repos\Leltar\Leltar\bin\Debug\netcoreapp3.1\Leltar.pdb
+C:\Users\Doma\source\repos\Leltar\Leltar\obj\Debug\netcoreapp3.1\Leltar.csproj.AssemblyReference.cache
+C:\Users\Doma\source\repos\Leltar\Leltar\obj\Debug\netcoreapp3.1\Leltar.Form1.resources
+C:\Users\Doma\source\repos\Leltar\Leltar\obj\Debug\netcoreapp3.1\Leltar.csproj.GenerateResource.cache
+C:\Users\Doma\source\repos\Leltar\Leltar\obj\Debug\netcoreapp3.1\Leltar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doma\source\repos\Leltar\Leltar\obj\Debug\netcoreapp3.1\Leltar.AssemblyInfoInputs.cache
+C:\Users\Doma\source\repos\Leltar\Leltar\obj\Debug\netcoreapp3.1\Leltar.AssemblyInfo.cs
+C:\Users\Doma\source\repos\Leltar\Leltar\obj\Debug\netcoreapp3.1\Leltar.csproj.CoreCompileInputs.cache
+C:\Users\Doma\source\repos\Leltar\Leltar\obj\Debug\netcoreapp3.1\Leltar.dll
+C:\Users\Doma\source\repos\Leltar\Leltar\obj\Debug\netcoreapp3.1\Leltar.pdb
+C:\Users\Doma\source\repos\Leltar\Leltar\obj\Debug\netcoreapp3.1\Leltar.genruntimeconfig.cache
